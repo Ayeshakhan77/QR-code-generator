@@ -1,6 +1,6 @@
 # QR-code-generator
 
-A simple python based QR code generator which generate QR code of any link.
+A simple python based QR code generator which generate QR code of any link. <br>
 To run this file locally you have to install two dependencies
 
 1. pip install qrcode

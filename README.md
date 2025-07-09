@@ -7,7 +7,6 @@ To run this file locally you have to install two dependencies
 2. pip install pillow
 
 Then clone the repository using:
-git clone https://github.com/Ayeshakhan77/QR-code-generator/
+git clone https://github.com/Ayeshakhan77/QR-code-generator
 
-For any assistance reache me at:
-ayeshawork51@gmail.com
+For any assistance reach me at: ayeshawork51@gmail.com

@@ -9,4 +9,7 @@ To run this file locally you have to install two dependencies
 Then clone the repository using: <br>
 git clone https://github.com/Ayeshakhan77/QR-code-generator
 
+Then run using: <br>
+python qr_code.py
+
 For any assistance reach me at: ayeshawork51@gmail.com
